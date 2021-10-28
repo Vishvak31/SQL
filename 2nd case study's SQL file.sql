@@ -34,6 +34,7 @@ Arizona	18
 ------ ANSWER --------
 */
 
+
 --03. Show the number of transactions for each model per zip code per state.
 
 --Answer:
